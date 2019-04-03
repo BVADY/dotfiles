@@ -1,0 +1,37 @@
+{
+    "com.github.brpaz.ulauncher-hash": {
+        "url": "https://github.com/brpaz/ulauncher-hash", 
+        "last_commit_time": "2018-08-27T18:45:27Z", 
+        "last_commit": "334f2ba8a18b1a6064213070ae2aad466b4114ca", 
+        "id": "com.github.brpaz.ulauncher-hash", 
+        "updated_at": "2018-09-03T21:01:44.704570"
+    }, 
+    "com.github.rolfkoenders.ulauncher-myip": {
+        "url": "https://github.com/RolfKoenders/ulauncher-myip", 
+        "last_commit_time": "2017-12-06T23:01:27Z", 
+        "last_commit": "f40929056c53d7bd866e3825b9b98b4955f82121", 
+        "id": "com.github.rolfkoenders.ulauncher-myip", 
+        "updated_at": "2018-09-03T21:04:24.633578"
+    }, 
+    "com.github.wallace11.ulauncher-url-shortener": {
+        "url": "https://github.com/wallace11/ulauncher-url-shortener", 
+        "last_commit_time": "2018-06-02T17:14:14Z", 
+        "last_commit": "318f45c0b095eb9cf512f863c2c725a04464f746", 
+        "id": "com.github.wallace11.ulauncher-url-shortener", 
+        "updated_at": "2018-09-03T21:02:30.867269"
+    }, 
+    "com.github.ulauncher.ulauncher-timer": {
+        "url": "https://github.com/ulauncher/ulauncher-timer", 
+        "last_commit_time": "2017-05-01T07:30:39Z", 
+        "last_commit": "64e106c57ad90f9f02e9941dfa9780846b7457b9", 
+        "id": "com.github.ulauncher.ulauncher-timer", 
+        "updated_at": "2018-09-03T21:05:19.425933"
+    }, 
+    "com.github.seqizz.ulauncher-session-actions": {
+        "url": "https://github.com/seqizz/ulauncher-session-actions", 
+        "last_commit_time": "2018-05-31T10:49:42Z", 
+        "last_commit": "c837a94dfcd067528e145d9e3f874eaf9d16ff69", 
+        "id": "com.github.seqizz.ulauncher-session-actions", 
+        "updated_at": "2018-09-03T21:03:46.751334"
+    }
+}
